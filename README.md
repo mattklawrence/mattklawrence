@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h1>🇮🇹
+<h1>🇮🇹 <br>
 RoninStudios nasce il 11/08/2021 ,
 da un idea del nostro Founder e CEO @浪人 rōnin | MattKLawrence  di creare un azienda che potesse offrire tutti i servizi informatici utili per lo sviluppo di un idea.
 Creare un team di grandi professionisti del settore informatico per dare un servizio completo a 360 gradi , per soddisfare tutte le richieste dal cliente privato alle grandi aziende.
@@ -12,7 +12,7 @@ Ronin Studios "L'unico limite è la vostra immaginazione"
 
 Questo è solo l'inizio.
  
-🇺🇸
+🇺🇸 <br>
 RoninStudios was founded on 11/08/2021 ,
 from an idea of our Founder and CEO @浪人 rōnin | MattKLawrence  to create a company that could offer all the services useful for the development of an idea.
 Create a team of great professionals in the computer industry to give a complete service to 360 degrees, to meet all requests from private customers to large companies.
