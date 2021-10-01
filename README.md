@@ -41,3 +41,9 @@
 
 [<h1>GitHub</h1>](https://github.com/DeVolutions-ita) 
 
+![img](https://i.imgur.com/KviifrA.png) 
+
+[<h1>Telegram</h1>](https://t.me/joinchat/RVflO-ox-NczMDFk) 
+
+
+
