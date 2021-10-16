@@ -22,8 +22,11 @@
 ![img](https://imgur.com/UPTeGIH.png)
 ![img](https://imgur.com/l4pMMRa.png)
 
-![img](https://i.imgur.com/Lfr9B8j.png)
+![img](https://imgur.com/2ZBB1EG.png)
+![img](https://imgur.com/5Zgcu3O.png)
 
+
+![img](https://i.imgur.com/Lfr9B8j.png)
 ![img](https://i.imgur.com/DmzHZy7.png) 
 
 [<h1>Website</h1>](https://www.devolutions.it/) <br>
