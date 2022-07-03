@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Matt K Lawrence CEO of DeVolutions© , welcome in my GitHub!
+### Hi there 👋 I'm Matt K Lawrence, welcome in my GitHub!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattKLawrence)](https://github.com/anuraghazra/github-readme-stats)
@@ -27,10 +27,6 @@
 
 
 ![img](https://i.imgur.com/Lfr9B8j.png)
-
-![img](https://imgur.com/AAIMPzC.png) 
-
-[<h1>Website</h1>](https://www.devolutions.it/) <br>
 
 ![img](https://imgur.com/weHtzQi.png) 
 
