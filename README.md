@@ -30,23 +30,20 @@
 
 ![img](https://imgur.com/weHtzQi.png) 
 
-[<h1>Discord</h1>](https://discord.gg/j4rVsMHPuG) <br>
+[<h1>Discord</h1>](ttps://discord.gg/Y7ZwH5xh7A) <br>
 
 ![img](https://imgur.com/B1q3O3a.png) 
 
-[<h1>Instagram</h1>](https://www.instagram.com/devolutions_ita/) <br>
+[<h1>Instagram</h1>](https://www.instagram.com/mattklawrence) <br>
 
 ![img](https://imgur.com/zZGjpte.png) 
 
-[<h1>Twitter</h1>](https://twitter.com/DeVolutions_ita) <br>
+[<h1>Twitter</h1>](https://twitter.com/mattklawrence) <br>
 
 ![img](https://imgur.com/nttvTRT.png) 
 
-[<h1>GitHub</h1>](https://github.com/DeVolutions-ita) 
+[<h1>GitHub</h1>](https://github.com/MattKLawrence) 
 
-![img](https://imgur.com/s1qUP6p.png) 
-
-[<h1>Telegram</h1>](https://t.me/joinchat/RVflO-ox-NczMDFk) 
 
 
 
