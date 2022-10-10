@@ -30,7 +30,7 @@
 
 ![img](https://imgur.com/weHtzQi.png) 
 
-[<h1>Discord</h1>](ttps://discord.gg/Y7ZwH5xh7A) <br>
+[<h1>Discord</h1>](https://discord.gg/Y7ZwH5xh7A) <br>
 
 ![img](https://imgur.com/B1q3O3a.png) 
 
