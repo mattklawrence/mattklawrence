@@ -26,24 +26,4 @@
 ![img](https://imgur.com/oWEFmzn.png)
 
 
-![img](https://i.imgur.com/Lfr9B8j.png)
-
-![img](https://imgur.com/weHtzQi.png) 
-
-[<h1>Discord</h1>](https://discord.gg/Y7ZwH5xh7A) <br>
-
-![img](https://imgur.com/B1q3O3a.png) 
-
-[<h1>Instagram</h1>](https://www.instagram.com/mattklawrence) <br>
-
-![img](https://imgur.com/zZGjpte.png) 
-
-[<h1>Twitter</h1>](https://twitter.com/mattklawrence) <br>
-
-![img](https://imgur.com/nttvTRT.png) 
-
-[<h1>GitHub</h1>](https://github.com/MattKLawrence) 
-
-
-
 
