@@ -24,6 +24,3 @@
 
 ![img](https://imgur.com/2ZBB1EG.png)
 ![img](https://imgur.com/oWEFmzn.png)
-
-
-
