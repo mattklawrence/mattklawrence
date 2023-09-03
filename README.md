@@ -1,7 +1,27 @@
-### Hi there 👋 I'm mattklawrence, welcome in my GitHub!
+![Banner](https://imgur.com/NaqLA8E.png)
 
+# Ciao, sono mattklawrence! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattKLawrence)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattKLawrence&show_icons=true&theme=radical)
+Fondatore e mente creativa dietro **HappyCoding** e **RP-X**, uno dei server FiveM più dinamici in circolazione.
 
-![img](https://i.imgur.com/4STeE0v.png)
+🔍 **Interessi:**
+- Sviluppo di script per FiveM e RedM
+- Gestione di comunità di gioco
+- Apprendimento e condivisione di nuove tecnologie
+
+🚀 **Progetti principali:**
+- [HappyCoding](https://discord.gg/HtmUzdRVxM)
+- [RP-X Server (FiveM)](https://discord.gg/qc8PjE8hzy)
+- [RPWEST-X Server (RedM) - 🌟 Progetto speciale, in arrivo! 🌟
+- RPRETRO-X Server (FiveM) - 🌟 Progetto speciale, in arrivo! 🌟
+
+🔗 **Connettiamoci!**
+- 🌐 [RP-X Website](https://rp-x.bss.design/)
+- 💬 [Discord](https://discord.gg/HtmUzdRVxM)
+
+Sto sempre cercando di collaborare con altri appassionati. Se sei interessato, contattami o unisciti alla nostra community!
+
+---
+
+💼 Se desideri collaborare su un progetto o semplicemente scambiare due chiacchiere, sentiti libero di contattarmi!
+
