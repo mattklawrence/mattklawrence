@@ -2,7 +2,7 @@
 
 # Ciao, sono mattklawrence! 👋
 
-Fondatore e mente creativa dietro **HappyCoding** e **RP-X**, uno dei server FiveM più dinamici in circolazione.
+Fondatore e mente creativa dietro **HappyCoding** e **BUCKS RP**, uno dei server FiveM più dinamici in circolazione.
 
 🔍 **Interessi:**
 - Sviluppo di script per FiveM e RedM
