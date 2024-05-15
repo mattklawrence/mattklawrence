@@ -10,14 +10,11 @@ Fondatore e mente creativa dietro **HappyCoding** e **RP-X**, uno dei server Fiv
 - Apprendimento e condivisione di nuove tecnologie
 
 🚀 **Progetti principali:**
-- [X-Studios](https://discord.gg/HtmUzdRVxM)
-- [RP-X Server (FiveM)](https://discord.gg/qc8PjE8hzy)
-- [RPWEST-X Server (RedM) - 🌟 Progetto speciale, in arrivo! 🌟
-- RPRETRO-X Server (FiveM) - 🌟 Progetto speciale, in arrivo! 🌟
+- [BucksRP (FiveM)](https://discord.gg/ax6dVGYKNa)
+- [Bucks 1842 Server (RedM) - 🌟 Progetto speciale, in arrivo! 🌟
 
 🔗 **Connettiamoci!**
-- 🌐 [RP-X Website](https://rp-x.bss.design/)
-- 💬 [Discord](https://discord.gg/HtmUzdRVxM)
+- 💬 [Discord](https://discord.gg/ax6dVGYKNa)
 
 Sto sempre cercando di collaborare con altri appassionati. Se sei interessato, contattami o unisciti alla nostra community!
 
